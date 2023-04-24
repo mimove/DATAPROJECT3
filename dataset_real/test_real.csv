@@ -1,4 +1,4 @@
-﻿age;sex;cp;trestbps;chol;fbs;restecg;thalach;exang;oldpeak;slope;ca;thal;CATEGORIA;HOSPITAL
+﻿age;sex;cp;trestbps;chol;fbs;restecg;thalach;exang;oldpeak;slope;ca;thal;label;HOSPITAL
 56;1;2;124;224;1;0;161;0;2;2;;;0;long-beach-va
 61;1;4;125;0;0;0;105;1;0;3;;7;3;suiza
 52;1;4;135;0;;0;128;1;2;2;;7;2;suiza
